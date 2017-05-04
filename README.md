@@ -1,4 +1,4 @@
-history of abortion map
+LandVote D3 GeoVisualization
 ====================
 
-A Geography 575 final project using D3.js, Queue.js, jQuery.js to map the changes in abortion rights since Roe vs. Wade in America. 
+A Geography 575 final project using D3.js, Queue.js, jQuery.js to explore the Trust for Public Land's LandVote Database. 
